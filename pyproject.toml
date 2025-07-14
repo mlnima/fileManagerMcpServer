@@ -3,7 +3,7 @@ name = "fileManagerMcpServer"
 version = "1.0.0"
 description = "Advanced MCP server for comprehensive file management operations"
 authors = [
-    {name = "Nima M", author= "https://github.com/mlnima"}
+    {name = "Nima M"}
 ]
 dependencies = [
     "fastmcp>=0.1.0",
@@ -14,7 +14,7 @@ license = {text = "MIT"}
 
 [project.urls]
 Homepage = "https://02dev.com"
-Repository = "https://github.com/mlnima"
+Repository = "https://github.com/mlnima/fileManagerMcpServer"
 
 [build-system]
 requires = ["hatchling"]
