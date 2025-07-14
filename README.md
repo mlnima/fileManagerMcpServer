@@ -99,13 +99,13 @@ Add this configuration to your MCP client:
 
 ```
 file-manager-mcp/
-├── server.py                 # Main MCP server entry point
+├── server.py                
 ├── models/
-│   └── file_model.py        # Core file operations logic
+│   └── file_model.py       
 ├── controllers/
-│   └── file_controller.py   # MCP tool registration and handling
-├── requirements.txt         # Python dependencies
-└── README.md               # This file
+│   └── file_controller.py    
+├── requirements.txt         
+└── README.md               
 ```
 
 ## Architecture
