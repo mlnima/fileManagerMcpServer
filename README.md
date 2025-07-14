@@ -98,7 +98,7 @@ Add this configuration to your MCP client:
 ## Project Structure
 
 ```
-file-manager-mcp/
+fileManagerMcpServer/
 ├── server.py                
 ├── models/
 │   └── file_model.py       
